@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:infinite_scroll_pagination/infinite_scroll_pagination.dart';
-import 'package:pagination/core/model/photos_model.dart';
-import 'package:pagination/service/pagination_service.dart';
+import 'package:pagination/core/constants/exports.dart';
 
 class HomeViewPage extends StatefulWidget {
   const HomeViewPage({Key? key}) : super(key: key);
